@@ -2,10 +2,10 @@ package guru.qa;
 
 public class Main {
 
-    private static String msg = "Hello guys!";
+    private static String helloMsg = "Hello guys!";
     
     public static void main(String[] args) {
-        System.out.println(msg);
+        System.out.println(helloMsg);
     }
     
 }
